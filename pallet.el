@@ -41,6 +41,8 @@
   (copy-alist package-archives))
 
 (require 'cask)
+(require 'dash)
+(require 'epl)
 (require 'f)
 
 ;; interactive/api functions
